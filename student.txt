@@ -1,0 +1,4 @@
+name 	roll_no 	marks 	age 	
+rohan 	123 	23 	12 	
+rohni 	190 	20 	90 	
+
